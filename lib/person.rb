@@ -112,14 +112,11 @@ def start_conversation(friend,topic)
       "blah blah sun blah rain"
 
    else
-       
-    
-      "blah blah blah blah blah"
+       "blah blah blah blah blah"
 
    end
 
 end
-
 
 end
     #[Person,self].each do happiness += 3
